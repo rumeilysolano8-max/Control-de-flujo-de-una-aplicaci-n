@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Control de Flujo de una Aplicación
 
 **Autor:**
@@ -47,3 +48,6 @@ Programa de consola desarrollado en C# que calcula el área de un triángulo, un
 
 ### Escenario 3 (edad límite)
 ![Escenario 3](capturas/escenario3.png)
+
+# Control-de-flujo-de-una-aplicaci-n
+4776862fe6d8294b6fd2bbd1804513039cc3421a
