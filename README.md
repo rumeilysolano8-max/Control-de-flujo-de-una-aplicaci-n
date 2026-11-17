@@ -41,13 +41,16 @@ Programa de consola desarrollado en C# que calcula el área de un triángulo, un
 ## Capturas de Pantalla
 
 ### Escenario 1
-![Escenario 1](capturas/escenario1.png)
+ <img width="977" height="901" alt="WhatsApp Image 2026-11-17 at 3 47 27 PM" src="https://github.com/user-attachments/assets/25228d1f-5373-4aec-b7f1-354c3b2a2ee6" />
+
 
 ### Escenario 2
-![Escenario 2](capturas/escenario2.png)
+ <img width="891" height="767" alt="WhatsApp Image 2026-11-17 at 3 48 43 PM" src="https://github.com/user-attachments/assets/0bb3a2e4-d150-41f5-92da-e1dfdddd65dd" />
 
-### Escenario 3 (edad límite)
-![Escenario 3](capturas/escenario3.png)
+
+### Escenario 3  
+<img width="857" height="676" alt="WhatsApp Image 2026-11-17 at 3 49 47 PM" src="https://github.com/user-attachments/assets/1ff8d0a2-3978-4310-bfbd-042ef31790dd" />
+
 
 # Control-de-flujo-de-una-aplicaci-n
 4776862fe6d8294b6fd2bbd1804513039cc3421a
